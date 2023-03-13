@@ -1,0 +1,23 @@
+.activity-options {
+ padding: 20px 20px;
+ 
+}
+
+button {
+    margin-left: 10px;
+}
+
+.activity {
+    padding: 10px 10px;
+}
+
+.left-side {
+    width: 60%;
+}
+
+.right-side {
+    width: 25%;
+    align-items: center;
+    margin-left: 60%;
+    
+}
